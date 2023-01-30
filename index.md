@@ -7,3 +7,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] be cool
+- [x] be nice
+- [x] be kind
+- [x] be calm 
+- [ ] be bland
